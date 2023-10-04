@@ -1,0 +1,13 @@
+﻿  AI.cpp
+C:\Users\stasi\source\repos\Alquerque\Alquerque\AI.cpp(24,44): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\stasi\source\repos\Alquerque\Alquerque\AI.cpp(26,42): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\stasi\source\repos\Alquerque\Alquerque\AI.cpp(31,39): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\stasi\source\repos\Alquerque\Alquerque\AI.cpp(43,56): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\stasi\source\repos\Alquerque\Alquerque\AI.cpp(46,47): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\stasi\source\repos\Alquerque\Alquerque\AI.cpp(58,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Board.cpp
+  Game.cpp
+  GameBrain.cpp
+  main.cpp
+  Generowanie kodu...
+  Alquerque.vcxproj -> C:\Users\stasi\source\repos\Alquerque\x64\Debug\Alquerque.exe

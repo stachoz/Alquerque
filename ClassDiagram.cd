@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AI">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAQAA=</HashCode>
+      <FileName>AI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board">
+    <Position X="13.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAAAAQAAAAAAAAAAAABAQgCAIQAAEAAACgA=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="15.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAwAAAAiAAAAAAAAAAACAAAAAAQAoIAAAAAAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameBrain">
+    <Position X="11" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0AQBFIAAAWFGgZiBcKIICABCCBEAkQIgYJAEACAQCZA=</HashCode>
+      <FileName>GameBrain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="18.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAEAJAAAABAAAAAAGQAAAAAQAAAAA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreBoard">
+    <Position X="17" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEADAAAAgAAAAA=</HashCode>
+      <FileName>ScoreBoard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="coordinates">
+    <Position X="20.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameBrain.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tab_2d_indexes">
+    <Position X="22.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>GameBrain.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
